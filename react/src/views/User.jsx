@@ -1,7 +1,7 @@
 export default function User(){
     return (
         <div>
-            This is the user page.
+            Lagi ada urusan
         </div>
     )
 }
